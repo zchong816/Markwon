@@ -52,7 +52,7 @@ ext {
             'build-tools'    : '29.0.3',
             'compile-sdk'    : 29,
             'target-sdk'     : 29,
-            'min-sdk'        : 16,
+            'min-sdk'        : 24,
             'push-aar-gradle': 'https://raw.githubusercontent.com/noties/gradle-mvn-push/master/gradle-mvn-push-aar.gradle'
     ]
 
